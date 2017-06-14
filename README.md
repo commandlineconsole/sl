@@ -65,4 +65,4 @@ Step 1: Define Token as an Object in Token.scala
 Step 2: Define DiceRoll object to invoke the Token as key and value pairs, values are retrieved based on the random values from randomDieValue method
 Step 3: spawnNewToken, moveTo method will get the dice new position based on the new token and starting point
 
-```"# sl" 
+
